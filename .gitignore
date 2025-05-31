@@ -5,4 +5,4 @@ dist/
 logs
 npm-debug.log*
 # Dependency directories
-wizard-commit-m/
+wizard-commit.json
